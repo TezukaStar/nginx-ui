@@ -5,7 +5,6 @@
    - Instance Type: t2.micro หรือสูงกว่า
    - Security Groups (พอร์ตที่ต้องเปิด):
      - Port 9000 (Nginx UI)
-     ![alt text](amazone/4.png)
 
 2. โดเมนและ Cloudflare
    - โดเมนที่จดทะเบียนแล้ว
